@@ -4,9 +4,9 @@
 Configured Azure management hierarchy structures and implemented customized Role-Based Access Control (RBAC) policies to enforce the principle of least privilege across cloud resources.
 
 ## 🛠️ Tech Stack & Concepts
-Cloud Platform: Microsoft Azure
-Key Services: Azure Resource Manager (ARM), Management Groups, Access Control (IAM), Custom Roles
-Security Principles: Principle of Least Privilege, Scope Inheritance, Custom JSON Permissions
+* **Cloud Platform:** Microsoft Azure
+* **Key Services:** Azure Resource Manager (ARM), Management Groups, Access Control (IAM), Custom Roles
+* **Security Principles:** Principle of Least Privilege, Scope Inheritance, Custom JSON Permissions
 
 ---
 
@@ -20,7 +20,7 @@ Verification & Deployment Success:
   ![Management Group Active](./screenshots/managemt-group-success.jpg)
 
 ### 2. Role Assignments & Group Management
-Configured targeted role assignments at the management group scope, linking identity groups (such as the Help Desk team) with appropriate operational roles like Virtual Machine Contributor.
+Configured targeted role assignments at the management group scope, linking identity groups (such as the Help Desk team) with appropriate operational roles like *Virtual Machine Contributor*.
 Help Desk Group Assignment:
   ![Help Desk Role Assignment](./screenshots/help-desk-group.jpg)
 
@@ -38,5 +38,5 @@ Successful Role Deployment:
 ---
 
 ## 🚀 Key Takeaways
- Successfully deployed hierarchical management structures for streamlined cloud governance.
- Built and validated custom least-privilege roles using both the Azure Portal interface and JSON configuration templates.
+* Successfully deployed hierarchical management structures for streamlined cloud governance.
+* Built and validated custom least-privilege roles using both the Azure Portal interface and JSON configuration templates.
