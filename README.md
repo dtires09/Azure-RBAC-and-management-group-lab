@@ -1,1 +1,0 @@
-# Azure-RBAC-and-management-group-lab
