@@ -20,7 +20,7 @@ Verification & Deployment Success:
   ![Management Group Active](./screenshots/managemt-group-success.jpg)
 
 ### 2. Role Assignments & Group Management
-Configured targeted role assignments at the management group scope, linking identity groups (such as the Help Desk team) with appropriate operational roles like *Virtual Machine Contributor*.
+Configured targeted role assignments at the management group scope, linking identity groups (such as the Help Desk team) with appropriate operational roles like Virtual Machine Contributor.
 Help Desk Group Assignment:
   ![Help Desk Role Assignment](./screenshots/help-desk-group.jpg)
 
